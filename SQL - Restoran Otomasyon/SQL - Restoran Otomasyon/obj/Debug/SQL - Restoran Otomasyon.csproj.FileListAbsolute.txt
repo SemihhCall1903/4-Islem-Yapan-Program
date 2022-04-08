@@ -1,0 +1,10 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\bin\Debug\SQL - Restoran Otomasyon.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\SQL - Restoran Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\SQL - Restoran Otomasyon.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\bin\Debug\SQL - Restoran Otomasyon.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\bin\Debug\SQL - Restoran Otomasyon.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\SQL - Restoran Otomasyon.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\SQL - Restoran Otomasyon.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\AnaEkran.PersonelGiris.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\AnaEkran.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\SQL - Restoran Otomasyon\SQL - Restoran Otomasyon\obj\Debug\AnaEkran.KayitOl.resources
